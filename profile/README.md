@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://berberongithub.github.io/berber.gif" width="700" alt="Ethereal Logo">
+  <img src="https://raw.githubusercontent.com/Ethereal-Organization/.github/refs/heads/main/ethereal.png" width="300" alt="Ethereal Logo">
 </p>
+<p align="center">Who made the logo wonky?</p>
 
 <h1 align="center">Welcome to <a href="#">Ethereal</a> 👋</h1>
 <p align="center">
