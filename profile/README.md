@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ethereal-Organization/.github/refs/heads/main/banner2.png" width="300" alt="Ethereal Logo">
 </p>
-<p align="center">Who made the logo wonky?</p>
 
 <h1 align="center">Welcome to <a href="#">Ethereal</a> 👋</h1>
 <p align="center">
