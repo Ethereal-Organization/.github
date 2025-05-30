@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ethereal-Organization/.github/refs/heads/main/ethereal.png" width="300" alt="Ethereal Logo">
+  <img src="https://raw.githubusercontent.com/Ethereal-Organization/.github/refs/heads/main/fixed.png" width="300" alt="Ethereal Logo">
 </p>
 <p align="center">Who made the logo wonky?</p>
 
