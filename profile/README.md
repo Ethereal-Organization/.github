@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ethereal-Organization/.github/refs/heads/main/banner2.png" width="300" alt="Ethereal Logo">
+  <img src="https://raw.githubusercontent.com/Ethereal-Organization/.github/refs/heads/main/banner2.png" width="700" alt="Ethereal Logo">
 </p>
 
 <h1 align="center">Welcome to <a href="#">Ethereal</a> 👋</h1>
